@@ -54,11 +54,11 @@ autoKeyPress(Enum.KeyCode.BackSlash)
 if game.PlaceId == 12886143095 then
     local merchant = CFrame.new(-123.566498, 23.682478, -33.8405685, 0.573598742, 0, 0.81913656, 0, 1, 0, -0.81913656, 0, 0.573598742)
     humanroot.CFrame = merchant
-    wait(1)
+    wait(3)
     clickTP()
 elseif game.PlaceId == 18583778121 then
     local merchant = CFrame.new(-44.0604324, 751.102356, -265.169037, -0.999018073, 0.0152015463, -0.0416161083, 0.0148308426, 0.999847651, 0.00920201559, 0.0417496525, 0.00857577752, -0.999091268)
     humanroot.CFrame = merchant
-    wait(1)
+    wait(3)
     clickTP()
 end
